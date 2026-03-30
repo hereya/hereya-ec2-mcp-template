@@ -1,0 +1,6 @@
+name: hereya/ec2-mcp-template
+version: 0.1.0
+description: "MCP server template deployed on EC2 with pm2 and CodeCommit"
+iac: cdk
+infra: aws
+visibility: public

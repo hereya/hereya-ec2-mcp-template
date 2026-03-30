@@ -1,0 +1,6 @@
+# project: <to be filled>
+# workspace: <to be filled>
+deploy:
+  hereya/ec2-web-deploy:
+    version: 0.1.0
+preDeployCommand: npm install && npm run build
